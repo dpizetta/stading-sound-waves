@@ -21,21 +21,26 @@ Remarks: remember to connect the arduino GND to L298N negative, otherwise you ma
 
 There are two parameters that are related to the stepper motor and one for the mechanical setup. These two values can be found in the datasheet or using the experimental approach testing the velocity and counting steps using the examples provides by the Arduino IDE in the stepper library. The last value may depends on you mechanical setup so you must measure it. 
 
+```python
 `STEPS_PER_REVOLUTION = 100`
 `SPEED = 20                  # rpm`
-`MM_PER_STEP =               # mm per step`
+`MM_PER_STEP =               # mm per step
+```
 
 Those previous values must be correct for the calculus of distance be right. The tip here is, choose a step (STEP) that gives you a integer division for your previous setup, so you do not propagates error during the operations.
 
+```python
 `INITIAL_LENGHT = 0.0        # mm`
 `FINAL_LENGHT = 300.0        # mm`
 `STEP = 1.4                  # mm`
+```
 
 Then you will set how many time you will record for each measure step and a file name for the measure.
 
+```python
 `MEASURE_TIME = 0.5        # Measuring time per step`
 `FILENAME = 'measure_name' # File name without extension`
-
+```
 
 # Further information and reference
 
@@ -49,10 +54,7 @@ If you are using this program, please cite our work:
 
 **DOI:** 10.1590/1806-9126-RBEF-2016-0264
 
-Some pre formated styles:
 
-Vancouver:
-
-ABNT:
+ABNT: Pizetta, D.C.; Wanderley, A.B.; Mastelaro, V.R.; Paiva, F.F. Uma avaliação experimental do tubo de ondas sonoras estacionárias. **Revista Brasileira de Ensino de Física**, v.39, n.3, 2017. DOI: http://dx.doi.org/10.1590/1806-9126-RBEF-2016-0264.
 
 
