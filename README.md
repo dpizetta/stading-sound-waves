@@ -55,6 +55,12 @@ If you are using this program, please cite our work:
 **DOI:** 10.1590/1806-9126-RBEF-2016-0264
 
 
-ABNT: Pizetta, D.C.; Wanderley, A.B.; Mastelaro, V.R.; Paiva, F.F. Uma avaliação experimental do tubo de ondas sonoras estacionárias. **Revista Brasileira de Ensino de Física**, v.39, n.3, 2017. DOI: http://dx.doi.org/10.1590/1806-9126-RBEF-2016-0264.
+# Citation styles
 
+
+**ISO**: PIZETTA, Daniel Cosmo; WANDERLEY, Adilson Barros; MASTELARO, Valmor Roberto  e  PAIVA, Fernando Fernandes. Uma avaliação experimental do tubo de ondas sonoras estacionárias. Rev. Bras. Ensino Fís. [online]. 2017, vol.39, n.3, e3301. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172017000300401&lng=pt&nrm=iso>.  Epub 13-Fev-2017. ISSN 1806-1117.  http://dx.doi.org/10.1590/1806-9126-rbef-2016-0264.
+
+**ABNT**: PIZETTA, Daniel Cosmo et al . Uma avaliação experimental do tubo de ondas sonoras estacionárias. **Rev. Bras. Ensino Fís.**,  São Paulo ,  v. 39, n. 3,  e3301,    2017 .   Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172017000300401&lng=pt&nrm=iso>.  Epub 13-Fev-2017.  http://dx.doi.org/10.1590/1806-9126-rbef-2016-0264.
+
+**APA**: Pizetta, Daniel Cosmo, Wanderley, Adilson Barros, Mastelaro, Valmor Roberto, & Paiva, Fernando Fernandes. (2017). Uma avaliação experimental do tubo de ondas sonoras estacionárias. Revista Brasileira de Ensino de Física, 39(3), e3301. Epub 13 de feveiro de 2017.https://dx.doi.org/10.1590/1806-9126-rbef-2016-0264
 
